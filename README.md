@@ -5,4 +5,4 @@
 <p>3. Snizz in most cases is a no good very bad girl 
 <p>For additional questions about Snizz submit below.</p>
 <input type="email" placeholder="This does nothing">
-<input type="submit" placeholder="Still nothing">
+<input type="submit"
